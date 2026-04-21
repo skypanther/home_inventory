@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+ActionBar {
+    background-color: #65adf1;
+    color: white;
+}
+
+.fas {
+    font-family: 'Font Awesome 5 Free', 'fa-solid-900';
+    font-weight: 900;
+}
+
+.far {
+    font-family: 'Font Awesome 5 Free', 'fa-regular-400';
+    font-weight: 400;
+}
+
+.fab {
+    font-family: 'Font Awesome 5 Brands', 'fa-brands-400';
+    font-weight: 400;
+}
+
+.level-btn {
+    width: 200;
+    height: 84;
+    font-size: 19;
+    border-color: #d1d5db;
+    border-width: 1;
+    border-radius: 8;
+    margin-bottom: 16;
+}
+
+.levels-title {
+    font-size: 29;
+}
+
+.fab-btn {
+    width: 56;
+    height: 56;
+    border-radius: 28;
+    background-color: #65adf1;
+    color: white;
+    font-size: 22;
+    horizontal-align: right;
+    vertical-align: bottom;
+    margin: 0 16 24 0;
+}
